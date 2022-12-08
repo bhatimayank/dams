@@ -1,2 +1,1 @@
-# dams
-Doctor's Appointment Management System
+# dams-v1
